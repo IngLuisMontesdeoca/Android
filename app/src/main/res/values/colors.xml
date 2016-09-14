@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#101010</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#69F0AE</color>
+    <color name="accent_transparency">#50ff4646</color>
+    <color name="accent_transparency_dark">#cd4d1d1d</color>
+    <color name="primary_dark_transparency">#6c040408</color>
+    <color name="color_bar_findertracker">#FF5500</color>
+    <color name="color_text">#FFFFFF</color>
+    <color name="map_geo_fill">#b3019edb</color>
+
+</resources>
